@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"main","classId":1,"equips":[1,1],"faceIndex":0,"faceName":"normal","traits":[{"code":53,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"ライファ","nickname":"","note":"<stand_picture:test_Actor>\n<SAC道具封印スイッチ:82>","profile":""}
+]
